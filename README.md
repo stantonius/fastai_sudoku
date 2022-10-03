@@ -29,4 +29,6 @@ My learning outcomes were:
   
 ## Feedback
 
-I would love any and all feedback on this. I can't be the only one who struggled with learning the guts of fastai, so I am hoping this will help someone else.
+I would love any and all feedback on this. 
+
+I can't be the only one who struggled with learning the guts of fastai, so I am hoping this will help someone else.
