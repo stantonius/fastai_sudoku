@@ -16,7 +16,7 @@ You are given a Sudoku puzzle and two challenges:
 
 Your job is to solve the two challenges above by creating and using *as many* of the function arguments as you can. Note that this approach is not by any means the most efficient way to go about the task of creating a `DataLoader` - but this is helpful to learn what different arguments, functions, and classes do in fastai.
 
-There are 2 notebooks in this repo. One sample solution notebook is in the `solutions` directory.
+> There are 2 notebooks in this repo. A sample solution notebook is in the `solutions` directory.
 
 ## Learning Outcomes
 
